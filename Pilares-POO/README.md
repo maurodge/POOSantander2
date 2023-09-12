@@ -36,6 +36,6 @@ Por exemplo, imagine que tenhamos uma impressora, uma fotocopiadora, uma digital
 
 As interfaces atribuem caracteristicas de responsabilidade/utilidade de uma classe. No exemplo, significa dizer que uma multifuncional pode ser copiadora, pode ser digitalizadora e pode ser impressora, porem uma impressora só pode ser impressora, uma copiadora só pode ser uma copiadora e uma digitalizadora só pode ser uma digitalizadora.
 
-![exemplo do codigo usando interface]()
+![exemplo do codigo usando interface](https://github.com/maurodge/POOSantander2/tree/main/Pilares-POO/exemplo-interfaces/src)
 
 Códigos de exemplo retirados do curso de Fundamentos da Programação Orientada a Objetos com Java da DIO professor ![Gleyson Sampaio](https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/enums).
